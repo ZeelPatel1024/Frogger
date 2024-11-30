@@ -1,2 +1,3 @@
 # Frogger
-![app2](https://github.com/user-attachments/assets/26b7af76-7a39-49ee-836f-b9a423ec1736)
+![frogger](https://github.com/user-attachments/assets/dfeea061-5aa4-41a3-be2c-dbec8ed5f0e6)
+
